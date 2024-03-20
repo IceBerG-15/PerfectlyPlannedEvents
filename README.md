@@ -1,7 +1,5 @@
-# PerfectlyPlannedEvents
 # Event-Management-System
-## Hackathon
-Java Based Event Management System that caters to all your needs
+Java Based Event Management System that caters to all your needs 
 
 Types of Events
 
