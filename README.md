@@ -1,3 +1,16 @@
 # PerfectlyPlannedEvents
-Event Management Website
-Hackathon
+# Event-Management-System
+## Hackathon
+Java Based Event Management System that caters to all your needs
+
+Types of Events
+
+-   Social
+    - Wedding
+    - Party
+    - Anniversary
+-   Corporate
+    - Conference
+    - Seminar
+-   Sports
+    - Tournaments
