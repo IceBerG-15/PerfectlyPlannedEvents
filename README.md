@@ -65,11 +65,11 @@ Contributions to this project are welcome! Feel free to fork the repository, mak
 
 ![pic1](screenshots/pic1.png)
 ![pic2](screenshots/pic2.png)
-![pic6](screenshots/pic6.png)
-![pic7](screenshots/pic7.png)
 ![pic3](screenshots/pic3.png)
 ![pic4](screenshots/pic4.png)
 ![pic5](screenshots/pic5.png)
+![pic6](screenshots/pic6.png)
+![pic7](screenshots/pic7.png)
 
 ## Authors:
 ### Sidhant Sharma     https://github.com/IceBerG-15
